@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with 108 things
 - ⚡ Fun fact: I'm cat ♥
+- 😃 I'm thai na kub : D
+
 
