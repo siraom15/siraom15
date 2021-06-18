@@ -24,7 +24,8 @@ Call me áom
 
 Currently, study at IT26@KMUTT at 1st semester
 Now, I work as software/website Developer
-
+Pre YWC18
+  
 My Skills
 C JAVA HTML NodeJS PHP Mysql Docker
 
