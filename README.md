@@ -7,11 +7,8 @@
 ### Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/SiriwatJ-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/siriwat-j-174b0a1b7)](https://www.linkedin.com/in/siriwat-j-174b0a1b7/)
 
-[![Gmail Badge](https://img.shields.io/badge/siriwat.jaiyungyuen@mail.kmutt.ac.th-white?style=flat-square&logo=Gmail&logoColor=red&link=https://www.linkedin.com/in/haany-ali)](mailto:siriwat.jaiyungyuen@mail.kmutt.ac.th)
 
-[![Facebook Badge](https://img.shields.io/badge/Siriwat-white?style=flat-square&logo=Facebook&logoColor=blue&link=https://www.facebook.com/siri.in.th/)](https://www.facebook.com/siri.in.th/)
-
-[![Facebook Badge](https://img.shields.io/badge/@siriwataom-white?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@siriwataom)](https://medium.com/@siriwataom)
+[![Medium Badge](https://img.shields.io/badge/@siriwataom-white?style=flat-square&logo=Medium&logoColor=black&link=https://medium.com/@siriwataom)](https://medium.com/@siriwataom)
   
 ### GitHub Stats
 ![img](https://komarev.com/ghpvc/?username=siraom15&color=ff69b4)
