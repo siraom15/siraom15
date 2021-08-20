@@ -1,8 +1,7 @@
 <head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
-<i 
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"> 
 </head>
-<h1 align="center">👋 Hi there !</h1>
+
 
 
 
