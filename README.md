@@ -22,7 +22,7 @@
 
 <br/>
 
-![img](https://www.codewars.com/users/siraom15/badges/small)
+![img](https://www.codewars.com/users/siraom15/badges/large)
 
 <br/>
 
