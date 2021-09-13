@@ -6,7 +6,7 @@
 
 <br/>
 
-🔭 🙋‍♂️🙋‍♀️ Nice to meet you everyone 😁😀 
+🙋‍♂️🙋‍♀️ Nice to meet you everyone 😁😀 
 <br/>
 <!-- - ⚡ Fun fact: I'm cat ♥ -->
 
@@ -32,8 +32,18 @@
 
 ![img](https://komarev.com/ghpvc/?username=siraom15&color=ff69b4)
 ![](https://img.shields.io/github/followers/siraom15?style=plastic)
-<br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siraom15&count_private=true&show_icons=true&theme=highcontrast)
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siraom15)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siraom15&count_private=true&show_icons=true&theme=dracula)
+
+<br/>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siraom15)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
